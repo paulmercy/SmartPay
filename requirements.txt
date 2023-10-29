@@ -33,7 +33,9 @@ gunicorn
 lxml
 pandas
 Pillow
-
+gevent==23.9.1
+google-api-python-client==1.4.1
+greenlet==3.0.0
 python-decouple
 requests
 requests-oauthlib
